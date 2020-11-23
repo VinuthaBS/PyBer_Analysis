@@ -1,2 +1,6 @@
 .DS_Store
 Python
+.ipynb_checkpoints/
+PyBer_ride_data.csv.ipynb
+errorbars.ipynb
+matplotlib_practice.ipynb
