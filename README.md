@@ -14,7 +14,7 @@
 - Above gap is impacting on the Average fare per ride as well, with rural having 10$ more than urban and suburban having almost 6$ more than urban average fare per ride.
 - At the same time looking at the Average fare per Driver stats indicates that the rural drivers are having 3.3 times of the avg fare per urban driver and suburban drivers have almost 2.5 times the avg fare per urban driver. This indicates that rural drivers and suburban drivers might be working overly when compared to urban drivers (distributed among large team of 80%).
 ---
-- <img src = "Resources/PyBer_summary_Df.png"></img>
+- <img src = "Resources/PyBer_Summary_Df.png"></img>
 ---
 - Plotting the graph of weekly total fare by city type, reveals the same gap in the fare data between the 3 regions with the high fare in urban region and low fare in rural region.
 - Overall the line graph, week on week, for each city type remains straight with very less variation around its center and runs almost parallel to the other regions.
