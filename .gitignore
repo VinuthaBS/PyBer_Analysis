@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.DS_Store
+PyBer_ride_data.csv.ipynb
+errorbars.ipynb
+matplotlib_practice.ipynb
+Fig1.png
+Fig2.png
+Fig3.png
+Fig4.png
+Fig5.png
+Fig6.png
+Fig7.png
